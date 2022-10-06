@@ -20,14 +20,3 @@ if (num1 === 1){
     console.log("error")
 }
 
-
-
-
-
-
-
-
-
-
-
-

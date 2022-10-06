@@ -8,10 +8,3 @@ if (num1%3 == 0){
 } if (num1%16== 0){
     console.log("Fizzbuzz")
 }
-
-
-
-
-
-
-
